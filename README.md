@@ -1,4 +1,4 @@
-# 📚 BookOS - Sistem Manajemen Toko Buku Web-Based Desktop Environment
+# 📚 BookOS - Sistem Manajemen Toko Buku Web-Based Desktop Environment By kelompok ALif, Diko, Nopen, Wisnu
 
 ## 📖 Tentang Project
 
