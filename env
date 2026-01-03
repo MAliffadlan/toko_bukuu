@@ -1,0 +1,29 @@
+#--------------------------------------------------------------------
+# KONFIGURASI ENVIRONMENT - TOKO BUKU
+# COPY file ini ke .env untuk mengaktifkan konfigurasi
+#--------------------------------------------------------------------
+
+#--------------------------------------------------------------------
+# ENVIRONMENT
+#--------------------------------------------------------------------
+
+CI_ENVIRONMENT = development
+
+#--------------------------------------------------------------------
+# APP
+#--------------------------------------------------------------------
+
+app.baseURL = 'http://localhost:8080/'
+app.forceGlobalSecureRequests = false
+
+#--------------------------------------------------------------------
+# DATABASE
+#--------------------------------------------------------------------
+
+database.default.hostname = localhost
+database.default.database = db_tokobuku
+database.default.username = root
+database.default.password = 
+database.default.DBDriver = MySQLi
+database.default.DBPrefix =
+database.default.port = 3306
