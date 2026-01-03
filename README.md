@@ -2,6 +2,8 @@
 
 ## 📖 Tentang Project
 
+## Live hosting website: http://tokobuku.diskon.com/
+
 **BookOS** adalah aplikasi manajemen toko buku berbasis web yang unik karena mengadopsi antarmuka **Desktop Environment (Windows 11 Style)**. Tidak seperti website toko buku konvensional, aplikasi ini memberikan pengalaman pengguna seperti menggunakan sistem operasi desktop, lengkap dengan:
 
 - **Lock Screen & Login Screen** yang interaktif
